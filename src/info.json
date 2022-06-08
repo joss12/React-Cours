@@ -1,0 +1,157 @@
+[
+//     {
+//         "id": 1,
+//         "title": "C programming language",
+//         "feed": "C (/ˈsiː/, as in the letter c) is a general-purpose computer programming language. 
+//         It was created in the 1970s by Dennis Ritchie, 
+//         and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, 
+//         though decreasingly for application software, and is common in computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems. "
+//     },
+//     {
+//         "id": 2,
+//         "title": "C++ programming language",
+//         "feed": "C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of theC programming language, or "C with Classes". The language has expanded significantly over time,and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost alwaysimplemented as a compiled language, and many vendorsprovide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Oracle, and IBM, so it is available on many platforms.[10] "
+//     },
+//     {
+//         "id": 3,
+//         "title": "Pascal programming language",
+//         "feed": "Pascal is an imperative and procedural 
+//         programming language, designed by Niklaus Wirth 
+//         as a small, efficient language intended to encourage 
+//         good programming practices using structured programming 
+//         and data structuring. It is named in honour of the
+//          French mathematician, 
+//         philosopher and physicist Blaise Pascal. "
+//     },
+//     {
+//         "id": 4,
+//         "title": "The Perl Programming Language",
+//         "feed": "Perl is a family of two high-level, 
+//         general-purpose, interpreted, dynamic programming 
+//         languages. "Perl" refers to Perl 5, but from 2000 to 2019 
+//         it also referred to its redesigned "sister language", 
+//         Perl 6, before the latter's 
+//         name was officially changed to Raku in October 2019.[9][10] "
+//     },
+//     {
+//         "id": 5,
+//         "title": "Ada Programming Language",
+//         "feed": "Ada is a structured, statically typed, 
+//         imperative, and object-oriented high-level programming 
+//         language, extended from Pascal and other languages. 
+//         It has built-in language support for design by 
+//         contract (DbC), extremely strong typing, explicit 
+//         concurrency, tasks, synchronous message passing, 
+//         protected objects, and non-determinism. Ada improves 
+//         code safety and maintainability by using the compiler 
+//         to find errors in favor of runtime errors. Ada is an 
+//         international technical standard, jointly defined by 
+//         the International Organization for Standardization (ISO), 
+//         and the International Electrotechnical Commission (IEC). 
+//         As of 2020, the standard, called Ada 2012 
+//         informally,[12] is ISO/IEC 8652:2012.[13] "
+//     },
+//     {
+//         "id": 6,
+//         "title": " Cobol Programming Language",
+//         "feed": "COBOL (/ˈkoʊbɒl, -bɔːl/; an acronym for
+//          "common business-oriented language") is a compiled English-like 
+//          computer programming language designed for business use. It is an imperative, 
+//          procedural and, since 2002, object-oriented language. 
+//          COBOL is primarily used in business, finance, 
+//          and administrative systems for companies and governments. 
+//          COBOL is still widely used in applications deployed on mainframe computers, 
+//          such as large-scale batch and transaction processing jobs. However, 
+//          due to its declining popularity and the retirement of experienced COBOL programmers, 
+//          programs are being migrated to new platforms, 
+//          rewritten in modern languages 
+//          or replaced with software packages.[9] Most programming in COBOL is now purely to maintain existing applications; 
+//          however, many large financial institutions were still 
+//         developing new systems in COBOL as late as 2006.[10] "
+//     },
+//     {
+//         "id":7,
+//         "title": "Basic Programming Language",
+//         "feed": "BASIC (Beginners' All-purpose Symbolic Instruction Code)
+//         [1] is a family of general-purpose, high-level programming languages designed for ease of use. 
+//         The original version was created by John G. Kemeny, Thomas E. Kurtz at Dartmouth College in 1964. 
+//         They wanted to enable students in non-scientific fields to use computers.
+//          At the time, nearly all computers required writing custom software, 
+//         which only scientists and mathematicians tended to learn."
+        
+//     },
+//     {
+//         "id": 8,
+//         "title": "MATLAB",
+//         "feed": "As its name suggests, MATLAB, developed by MathWorks in the early 1980s, 
+//         is intended primarily for numerical computing and used by millions of people with backgrounds in engineering, science, and economics. MATLAB, 
+//         which began as a simple interactive matrix calculator, allows matrix manipulations, 
+//         plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
+
+//         Cleve Moler designed MATLAB because he wanted to give his students access to LINPACK and EISPACK (both mathematical software libraries) without them having to learn Fortran. 
+//         MATLAB was a success and has been in continuous use around the world for the last several decades."
+//     },
+
+//     {
+//         "id": 9,
+//         "title": "SQL",
+//         "feed": "SQL (Structured Query Language), was developed in the early 1970s at IBM by Donald D. Chamberlin and Raymond F. 
+//         Boyce. SQL was one of the first commercial programming languages to use Edgar F. 
+//         Codd’s relational model for database management. The programming language was created to
+//          manipulate and retrieve data stored in IBM’s database management system, System R. Since then, 
+//         the American National Standards Institute (ANSI) and the International Standards Organization (ISO) have deemed the SQL 
+//         language the standard language in relational database communication."
+//     },
+//     {
+//         "id": 10,
+//         "title": "Smalltalk",
+//         "feed": "Smalltalk is an early object-oriented programming language developed by a team led by Alan Kay at Xerox PARC. 
+//         It was created in part for educational use, specifically for constructionist 
+//         learning (in which learners construct mental models to understand the world around them), 
+//         at the Learning Research Group (LRG) of Xerox PARC. 
+//         Smalltalk was not released commercially until 1980 as Smalltalk-80. Before this, Smalltalk was only run on Xerox Alto computers. 
+//         Although there are more advanced object-oriented programming languages, 
+//         Smalltalk is still one of the most loved programming languages of all time."
+//     },
+//     {
+//         "id": 11,
+//         "title": "Lisp",
+//         "feed": "Released just a year after Fortran, 
+//         Lisp is the second oldest high-level programming language still in widespread use today. 
+//         Lisp was developed by John McCarthy, a legendary computer scientist, 
+//         who is considered one of the founders of the discipline of artificial intelligence 
+//         (McCarthy co-authored the document that coined the term “artificial intelligence.”)
+
+//         McCarthy started developing the idea for Lisp during the summer of 1956 
+//         while working on the Dartmouth Summer Research Project on Artificial Intelligence.
+//          Lisp, which comes from LISt Processor, was ready for commercial release in 1958. 
+//          The programming language has transformed many times over the years and there are 
+//          now a wide variety of Lisp dialects (a variation of the original programming language)."
+//     },
+//     {
+//         "id": 12,
+//         "title": "Fortran",
+//         "feed": "In late 1953, Backus submitted a proposal to his superiors at 
+//         IBM to develop a more practical alternative to assembly 
+//         language for programming their IBM 704 mainframe computer. A year later, 
+//         Fortran was ready for use and was released to the public three years later.
+
+//         Fortran quickly changed the computer programming landscape and the 
+//         language has been continuously used for the past six decades."
+//     },
+//     {
+//         "id": 13,
+//         "title": "Visual Basic",
+//         "feed": "Visual Basic (VB) is an event-driven programming 
+//         language and environment from Microsoft that provides a 
+//         graphical user interface (GUI) which allows programmers to modify code by simply 
+//         dragging and dropping objects and defining their behavior and appearance. 
+//         VB is derived from the BASIC programming 
+//         language and is considered to be event-driven and object-oriented."
+//     }
+{
+    "id": ,
+    "title": "C++ programming language",
+    "feed": "C++ (/ˌsiːˌplʌsˈplʌs/) is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of theC programming language, or "C with Classes". The language has expanded significantly over time,and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost alwaysimplemented as a compiled language, and many vendorsprovide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Oracle, and IBM, so it is available on many platforms.[10] "
+}
+]
